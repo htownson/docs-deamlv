@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ldj002.indocuansite.online/sitemap.xml
